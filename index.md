@@ -10,3 +10,7 @@ def add(num1, num2):
   results = num1 + num2
   return results
 ```
+## Step 4: Creating a task list
+- [x] Turn on Github pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
